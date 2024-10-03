@@ -21,5 +21,7 @@ Este é um pequeno programa em Python que determina o nível de um herói com ba
 
 ## Exemplo de uso:
 Digite o nome do herói: Aragorn
+
 Digite o XP do herói: 6200
+
 O herói de nome Aragorn está no nível de Ouro.
